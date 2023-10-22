@@ -7,3 +7,5 @@ Painting the walls
 find number of ways to start in start of array  
 4 - [1425](./src/main/java/ru/potemkin/leetcode/hard/ConstrainedSumOfSubsequence1425.java)  
 Constrained Subset Sum problem  
+5 - [1793](./src/main/java/ru/potemkin/leetcode/hard/MaximumScore1793.java)  
+Find maximum score in subset 
